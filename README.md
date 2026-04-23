@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-practica
-=======
-Evans AR
-practica
->>>>>>> 8036227f2d20eec52a0fc9ccb9518699d20a8767
+git add .
+git commit -m "Primer commit: creación del README"
